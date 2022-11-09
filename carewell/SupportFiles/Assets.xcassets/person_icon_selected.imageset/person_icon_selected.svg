@@ -1,0 +1,11 @@
+<svg id="구성_요소_173_1" data-name="구성 요소 173 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_3200" data-name="사각형 3200" width="32" height="32" fill="#f03e00"/>
+    </clipPath>
+  </defs>
+  <g id="마스크_그룹_19" data-name="마스크 그룹 19" clip-path="url(#clip-path)">
+    <path id="user-solid" d="M14,16A8,8,0,1,0,6,8,8,8,0,0,0,14,16Zm3.169,3H10.831A10.833,10.833,0,0,0,0,29.833,2.167,2.167,0,0,0,2.166,32H25.835A2.162,2.162,0,0,0,28,29.833,10.832,10.832,0,0,0,17.169,19Z" fill="#f03e00"/>
+    <path id="user-check-solid" d="M27.664,5.88a1.051,1.051,0,0,0-1.484.055l-3.809,4.1-1.68-1.68a1.05,1.05,0,0,0-1.485,1.485l2.45,2.45a1.044,1.044,0,0,0,.744.308h.019a1.051,1.051,0,0,0,.751-.336l4.55-4.9A1.052,1.052,0,0,0,27.664,5.88Z" transform="translate(4 3.399)" fill="#f03e00"/>
+  </g>
+</svg>

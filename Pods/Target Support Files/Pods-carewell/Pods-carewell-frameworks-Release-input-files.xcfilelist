@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-carewell/Pods-carewell-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CameraManager/CameraManager.framework
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
+${BUILT_PRODUCTS_DIR}/FloatingPanel/FloatingPanel.framework
+${PODS_ROOT}/GoogleWebRTC/Frameworks/frameworks/WebRTC.framework
+${BUILT_PRODUCTS_DIR}/MultipartForm/MultipartForm.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
